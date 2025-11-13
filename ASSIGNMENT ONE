@@ -1,0 +1,15 @@
+What is a python class?
+ A python class is a blueprint or a template for creating objects.
+
+What is an object in python?
+ An object is concrete realization of a class. It is a specific entity created from a class blueprint.
+
+Why do we need classes and objects?
+  Organisation and Structure: It helps structure and a program into logical,manageable, and reusable pieces of code
+  Reusability: You can use class to create many similar objects without rewriting the code
+  Data Bundling: It bundles data and the functions that operate on that data together
+  Modeling the real World: It allows you to model real-world entities (like a car , a dog , or a user in a code)
+
+What does the _inti_()function do ?
+   The _inti_() function is a special method in python classes that is automatically called when a new object(instance) of the class is created.
+Its primary function is to initiate the new object's attributes (to set up their initail state)
